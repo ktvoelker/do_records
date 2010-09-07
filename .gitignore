@@ -1,0 +1,5 @@
+.*.sw*
+*.hi
+*.o
+main
+main.exe
