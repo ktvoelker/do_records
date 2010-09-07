@@ -1,6 +1,6 @@
 
 {-# LANGUAGE TemplateHaskell #-}
-module DoRecord where
+module DoRecord ((:-)(..), doRec) where
 
 import Language.Haskell.TH
 import Prelude hiding (fst, snd, unzip)
